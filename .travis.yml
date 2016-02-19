@@ -1,2 +1,4 @@
 ﻿language: csharp
 solution: test-csharp-travis.sln
+script:
+    - xbuild /p:Configuration=Release test-csharp-travis.sln
