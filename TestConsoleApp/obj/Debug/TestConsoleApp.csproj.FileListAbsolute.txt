@@ -1,0 +1,9 @@
+C:\Development\Repositories\Henning\test-csharp-travis\test-csharp-travis\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+C:\Development\Repositories\Henning\test-csharp-travis\test-csharp-travis\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+C:\Development\Repositories\Henning\test-csharp-travis\test-csharp-travis\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+C:\Development\Repositories\Henning\test-csharp-travis\test-csharp-travis\TestConsoleApp\obj\Debug\TestConsoleApp.csprojResolveAssemblyReference.cache
+C:\Development\Repositories\Henning\test-csharp-travis\test-csharp-travis\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+C:\Development\Repositories\Henning\test-csharp-travis\test-csharp-travis\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
+C:\Development\Repositories\Henning\test-csharp-travis\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+C:\Development\Repositories\Henning\test-csharp-travis\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+C:\Development\Repositories\Henning\test-csharp-travis\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
