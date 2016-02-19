@@ -1,4 +1,9 @@
 ﻿language: csharp
 solution: ./test-csharp-travis.sln
+
+install:
+  - sudo apt-get install nunit-console
+  - nuget restore ./test-csharp-travis.sln
+
 script:
-    - xbuild ./test-csharp-travis.sln
+  - xbuild ./test-csharp-travis.sln
